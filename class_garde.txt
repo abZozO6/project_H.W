@@ -1,0 +1,44 @@
+
+Ahmad Ali      80
+ Khaled Muneer  90
+ Mohammad Ahmad 100
+ Aya Fathy    50
+ Moyad Waleed   49
+ manal Bader   75
+
+Ahmad Ali 80"C"
+Khaled Muneer 90"B"
+Mohammad Ahmad 100"A"
+Aya Fathy 50"E"
+Moyad Waleed 49"F"
+manal Bader 75"D"
+Ahmad Ali 80"C"
+
+Class Average: 74
+Ahmad Ali 80"C"
+Khaled Muneer 90"B"
+Mohammad Ahmad 100"A"
+Aya Fathy 50"E"
+Moyad Waleed 49"F"
+manal Bader 75"D"
+Ahmad Ali 80"C"
+
+Class Average: 74
+Ahmad Ali 80"C"
+Khaled Muneer 90"B"
+Mohammad Ahmad 100"A"
+Aya Fathy 50"E"
+Moyad Waleed 49"F"
+manal Bader 75"D"
+Ahmad Ali 80"C"
+
+Class Average: 74
+Ahmad Ali 80"C"
+Khaled Muneer 90"B"
+Mohammad Ahmad 100"A"
+Aya Fathy 50"E"
+Moyad Waleed 49"F"
+manal Bader 75"D"
+Ahmad Ali 80"C"
+
+Class Average: 74
